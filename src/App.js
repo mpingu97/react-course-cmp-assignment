@@ -31,6 +31,7 @@ function App() {
     <div>
       <Header> </Header>
       <List concepts={concepts}></List>
+      <h2 className="boo"> Ma Boo is the best &#10084;</h2>
     </div>
   );
 }
